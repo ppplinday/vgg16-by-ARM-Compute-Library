@@ -1,0 +1,1 @@
+"arm_compute_version=v17.05 Build options: {'embed_kernels': '1', 'arch': 'arm64-v8a', 'opencl': '1', 'neon': '0', 'asserts': '1', 'debug': '0', 'os': 'linux', 'Werror': '1'} Git hash=unknown"
