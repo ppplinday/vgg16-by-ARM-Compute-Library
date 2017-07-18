@@ -6,3 +6,5 @@ The phone need 1.5G Memory at lease.
 
 sh pushweight.sh
 sh main.sh
+
+The main file is in  	examples/vgg16_model_arm_compute_library_NEON.cpp
